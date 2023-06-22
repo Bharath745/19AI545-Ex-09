@@ -62,14 +62,15 @@ Verify the output by running the birthday card in any web browser.
     <p>Wishing you a day filled with joy and happiness.</p>
     <img src="https://funkylife.in/wp-content/uploads/2021/11/happy-birthday-images-60.jpg" alt="Birthday Image" width="300">
     <p class="message">Best wishes,</p>
-    <p class="sender">Sarankumar J</p>
+    <p class="sender">Bharath V</p>
   </div>
 </body>
 </html>
 
 ```
 ## Output:-
-![image](https://github.com/Bharath745/19AI545-Ex-09/assets/94508354/7ba6c307-4156-45a1-bda6-dd64fd09f68f)
+![image](https://github.com/Bharath745/19AI545-Ex-09/assets/94508354/eb80ed01-8263-41f6-96f9-b5963eb800fb)
+
 
 ## Result:-
 html & css code to create birthday card has been created and output has been verified.
